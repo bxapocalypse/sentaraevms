@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/my-react-site/static/css/main.7f1a9d9b.css",
+    "main.js": "/my-react-site/static/js/main.4961a048.js",
+    "static/media/Pelvic-Floor-Brochure.pdf": "/my-react-site/static/media/Pelvic-Floor-Brochure.4a1737e17373b706216f.pdf",
+    "static/media/Sentara-EVMS_CardioObstetricsBrochure_accessible.pdf": "/my-react-site/static/media/Sentara-EVMS_CardioObstetricsBrochure_accessible.584ae5e6b38287c59730.pdf",
+    "static/media/cardio_obstetrics.png": "/my-react-site/static/media/cardio_obstetrics.94bcf3e93cb6c485317a.png",
+    "static/media/Cardio-obstetrics_Brochure.png": "/my-react-site/static/media/Cardio-obstetrics_Brochure.18624ceb3168361e654e.png",
+    "static/media/Screenshot_2021-02-15_Google_Maps.png": "/my-react-site/static/media/Screenshot_2021-02-15_Google_Maps.48e8f711c1bfd14938fb.png",
+    "static/media/HeadandNeckCenter.png": "/my-react-site/static/media/HeadandNeckCenter.2bd82bbc86bc9af1bd0c.png",
+    "static/media/Sentara_EVMS_Pelvic_Floor_Center.png": "/my-react-site/static/media/Sentara_EVMS_Pelvic_Floor_Center.1e81b20137597d54a6b8.png",
+    "static/media/SEAGS_Center.png": "/my-react-site/static/media/SEAGS_Center.e4101815a4a22cab2d01.png",
+    "static/media/homepage-hero-image.jpg": "/my-react-site/static/media/homepage-hero-image.5aca1a0de9269fc92c11.jpg",
+    "static/media/Cardio-obstetrics_map.png": "/my-react-site/static/media/Cardio-obstetrics_map.f0db6baa9aeb4bb15ae4.png",
+    "static/media/HeadNeck_ScreenShots-003-702x254.jpg": "/my-react-site/static/media/HeadNeck_ScreenShots-003-702x254.a588cf85c393bc8627f0.jpg",
+    "static/media/HeadNeck_ScreenShots-016-702x254.jpg": "/my-react-site/static/media/HeadNeck_ScreenShots-016-702x254.849c6068558739772850.jpg",
+    "static/media/HeadNeck_ScreenShots-025-702x254.jpg": "/my-react-site/static/media/HeadNeck_ScreenShots-025-702x254.6b26b4a1d2c20fe643a6.jpg",
+    "static/media/111213-Sinesi_CyberKnife-2-702x254.jpg": "/my-react-site/static/media/111213-Sinesi_CyberKnife-2-702x254.2f2b111f2936eefe15e5.jpg",
+    "static/media/Smiling_Physician-702x254.jpg": "/my-react-site/static/media/Smiling_Physician-702x254.2843490346fce4837a65.jpg",
+    "static/media/Waller_Jerri.png": "/my-react-site/static/media/Waller_Jerri.2e80a4a746ec9ab8dae1.png",
+    "static/media/Too_Gloria.png": "/my-react-site/static/media/Too_Gloria.1ebd988beba124f97dae.png",
+    "static/media/Screenshot_2021-04-16_Sentara-EVMS-Pelvic-Floor-Overview_pdf.png": "/my-react-site/static/media/Screenshot_2021-04-16_Sentara-EVMS-Pelvic-Floor-Overview_pdf.24bcf9de1f4080135820.png",
+    "static/media/Robbins-Lindsay.png": "/my-react-site/static/media/Robbins-Lindsay.4fab71223d22a9185470.png",
+    "static/media/Lynch-Petra.png": "/my-react-site/static/media/Lynch-Petra.97eef918f240b0ee660f.png",
+    "static/media/EVMS-logo.svg": "/my-react-site/static/media/EVMS-logo.186ea8a17756601d5bdb864e23beb084.svg",
+    "static/media/sentara-logo-2023.svg": "/my-react-site/static/media/sentara-logo-2023.30c789cf4b6c03c20e52eb33c45b95cd.svg",
+    "index.html": "/my-react-site/index.html",
+    "main.7f1a9d9b.css.map": "/my-react-site/static/css/main.7f1a9d9b.css.map",
+    "main.4961a048.js.map": "/my-react-site/static/js/main.4961a048.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f1a9d9b.css",
+    "static/js/main.4961a048.js"
+  ]
+}
