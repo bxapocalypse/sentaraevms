@@ -112,7 +112,7 @@ header {
   width: 100%;
 }
 
-/* Mobile nav/hamburger icon */
+/* Mobile nav - hamburger icon */
 .navigation__toggle {
   display: none;
 }
@@ -1556,7 +1556,8 @@ footer {
 
   /* Secondary content */
   .container__content--secondary {
-    order: 2; /* For mobile only */
+    order: 2;
+    /* For mobile only */
     padding: 0 0 2em 0;
     width: 100%;
   }
@@ -1631,9 +1632,9 @@ footer {
 }
 
 @media screen and (min-width: 320px) and (max-width: 1024px) and (orientation: landscape) {
-  * -HEADER- */
-  	/* Main nav */
-    .navbar__navigation--main {
+  /* - HEADER - */
+  /* Main nav */
+  .navbar__navigation--main {
     padding: 1em !important;
   }
 
@@ -1692,7 +1693,8 @@ footer {
   .hasSubNav--indicator {
     color: #ffffff;
     display: inline-block;
-    display: -webkit-inline-flex; /* For Apple products, DO NOT REMOVE */
+    display: -webkit-inline-flex;
+    /* For Apple products, DO NOT REMOVE */
     font-family: 'Font Awesome 5 Free';
     font-size: 1.25em;
     height: 15px;
@@ -1714,7 +1716,8 @@ footer {
   .hasSubNav--indicator.fa-rotate-180:hover,
   .hasSubNav--indicator.fa-rotate-180:focus {
     display: inline-block;
-    display: -webkit-inline-flex; /* For Apple products, DO NOT REMOVE */
+    display: -webkit-inline-flex;
+    /* For Apple products, DO NOT REMOVE */
     margin-top: 2.66em;
   }
 
@@ -1742,7 +1745,8 @@ footer {
 
   /* Primary content */
   .container__content--primary {
-    order: 1; /* For mobile only */
+    order: 1;
+    /* For mobile only */
     padding: 0;
     width: 100%;
   }
@@ -1805,7 +1809,8 @@ footer {
 
   /* Secondary content */
   .container__content--secondary {
-    order: 2; /* For mobile only */
+    order: 2;
+    /* For mobile only */
     padding: 0 0 2em 0;
     width: 100%;
   }
